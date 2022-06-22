@@ -1,0 +1,47 @@
+.messenger {
+  background: white;
+  color: black;
+  border-radius: 5px;
+  width: 343px;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  -webkit-box-shadow: 0px 0px 15px -8px rgba(0, 0, 0, 0.37);
+  box-shadow: 0px 0px 15px -8px rgba(0, 0, 0, 0.37);
+  /* justify-content: center; */
+}
+
+.searchInput {
+  border: none;
+  width: 80%;
+  height: 25px;
+  align-self: center;
+  justify-self: center;
+  background: whitesmoke;
+  border-radius: 25px;
+}
+.searchInput:focus {
+  outline: none;
+}
+.icons {
+  flex: 1;
+
+  display: flex;
+  justify-content: space-around;
+}
+.top {
+  margin: 5px;
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  align-items: flex-end;
+}
+.title {
+  font-size: 20px;
+  flex: 1;
+  min-width: 50%;
+}
+.none {
+  display: none;
+}
