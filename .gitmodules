@@ -4,3 +4,6 @@
 [submodule "Messenger"]
 	path = Messenger
 	url = ./Messenger
+[submodule "Social-site-messenger"]
+	path = Social-site-messenger
+	url = git@github.com:Tolujana/Social-site-messenger.git
