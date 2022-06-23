@@ -1,0 +1,3 @@
+[submodule "Social-site-Api"]
+	path = Social-site-Api
+	url = git@github.com:Tolujana/Social-site-Api.git
